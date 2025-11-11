@@ -24,14 +24,14 @@ I thrive where creativity meets logic: whether it's crafting **backend architect
 
 **Frameworks & Tools:**  
 - **Frontend:** React, SCSS, Tailwind, Vue.js
-- **Backend:** Node.js (Express, Socket.IO), Prisma, JWT/Auth, REST APIs  
+- **Backend:** Node.js (Express, Socket.IO), Prisma, JWT/Passport, RESTful APIs  
 - **Databases:** MongoDB, PostgreSQL, MySQL, Redis  
 - **DevOps / Tools:** Docker, GitHub Actions, CI/CD, Nginx, Postman, VS Code , Wireshark, AWS, Azure DevOps 
 - **Game Dev:** Unity3D (C#), Blender (3D Assets), Visual Scripting  
 
 ---
 
-## 🧩 Highlight Projects
+## 🗄️ Projects
 
 ### 🔹 [Project Management Platform](https://github.com/Sparkiee/final-project-se)
 A comprehensive task & team management system developed as a final project — featuring role-based access, project dashboards, file submissions & AI smart judge assignment algorithms using OpenAI embedding and cosine similarity
@@ -45,10 +45,6 @@ A **hands-free cooking assistant app** for Android — guiding users through rec
 Custom **WordPress ecosystem** for the Volcani Institute — includes **custom post types, ACF integrations, bilingual support (HE/EN)**, and CSV importers.  
 > Tech: PHP, WordPress, ACF, SCSS, AJAX, Polylang
 
-### 🔹 [Job Application Tracker](https://github.com/Sparkiee/monday-like) _(cooming soon!)_
-A **task & collaboration platform** with full **Dockerized MERN stack** + **Redis rate-limiting** + **PostgreSQL via Prisma**.  
-> Tech: React + TS, Node.js, Express, Prisma, Docker, Redis
-
 ### 🔹 [Doughminating Pizza](https://github.com/Sparkiee/Doughminating-Pizza)
 A **3D pizza simulation game** with dynamic customers and animation logic.  
 > Tech: Unity (C#), Blender, Animation Controllers. Object Oriented Design
@@ -59,13 +55,12 @@ A **3D pizza simulation game** with dynamic customers and animation logic.
 📧 **Email:** [maxim.shteingard@gmail.com](mailto:maxim.shteingard@gmail.com)  
 💬 **Discord:** Sparkie  
 💼 **LinkedIn:** [linkedin.com/in/maximshteingard](https://www.linkedin.com/in/maxim-shteingard)  
-🌍 **Portfolio:** [maximshteingard.dev](https://maximshteingard.dev) _(coming soon!)_
 
 ---
 
 ## ⚡ Fun Facts
 - I love building things that combine **tech and creativity**
-- I enjoy **camping by the sea** and **late-night debugging with coffee**
+- I enjoy **camping** and **late-night debugging with coffee**
 - My favorite anime: **One Piece**, **Attack on Titan**, and **Fullmetal Alchemist**
 
 ---
