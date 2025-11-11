@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Max (aka Sparkiee)
+# 👋 Hey there, I'm Max (aka Sparkie)
 
 💻 **Software Engineer | Full-Stack Developer | Game & Tech Enthusiast**  
 🎓 B.Sc. in Software Engineering from Azrieli College of Engineering (2021 - 2025)                                               
