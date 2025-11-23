@@ -45,6 +45,15 @@ A **hands-free cooking assistant app** for Android — guiding users through rec
 Custom **WordPress ecosystem** for the Volcani Institute — includes **custom post types, ACF integrations, bilingual support (HE/EN)**, and CSV importers.  
 > Tech: PHP, WordPress, ACF, SCSS, AJAX, Polylang
 
+In addition to the public site, I also worked on internal research tools used by institute researchers and staff:
+- Built MERN-based dashboards for managing research data, experiments, and documentation
+- Implemented advanced search systems using MongoDB aggregations & custom filtering
+- Created dataset management tools with CSV ingestion and role-based access
+- Added React-based research portals for browsing, editing, and tracking scientific content
+- Integrated Node.js microservices for data processing, validation, and internal APIs
+- Optimized performance with Redis caching and modular API endpoints
+ - Designed for internal use: high performance, secure access, and researcher-friendly UX
+
 ### 🔹 [Doughminating Pizza](https://github.com/Sparkiee/Doughminating-Pizza)
 A **3D pizza simulation game** with dynamic customers and animation logic.  
 > Tech: Unity (C#), Blender, Animation Controllers. Object Oriented Design
