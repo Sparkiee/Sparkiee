@@ -22,41 +22,71 @@ I thrive where creativity meets logic: whether it's crafting **backend architect
 **Languages:**  
 🟦 TypeScript • 🟩 JavaScript • 🧡 Java • 🐍 Python • 🧊 C# • ⚙️ PHP • 🐘 SQL / PostgreSQL / Redis
 
+### 🧠 Languages
+![Langs](https://skillicons.dev/icons?i=js,ts,java,python,c,cpp,cs,php)
+
+### 🌐 Web Basics
+![Web](https://skillicons.dev/icons?i=html,css,sass)
+
+### 🖥️ Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nginx,dotnet)
+
+### 🗄️ Databases & Caching
+![DB](https://skillicons.dev/icons?i=mysql,postgresql,redis)
+
+### ⚛️ Frontend Frameworks
+![Frontend](https://skillicons.dev/icons?i=react,nextjs)
+
+### 🧰 Tools & DevOps
+![Tools](https://skillicons.dev/icons?i=docker,linux,git,npm,unity,github,githubactions,postman,aws,azure)
+
 **Frameworks & Tools:**  
-- **Frontend:** React, SCSS, Tailwind, Vue.js
-- **Backend:** Node.js (Express, Socket.IO), Prisma, JWT/Passport, RESTful APIs  
-- **Databases:** MongoDB, PostgreSQL, MySQL, Redis  
-- **DevOps / Tools:** Docker, GitHub Actions, CI/CD, Nginx, Postman, VS Code , Wireshark, AWS, Azure DevOps 
-- **Game Dev:** Unity3D (C#), Blender (3D Assets), Visual Scripting  
+- **Languages**: TS, JS, Java, Python, C#, PHP, C, C++
+- **Frontend**: React, Next.js, SCSS
+- **Backend**: Node.js, Express, .NET, REST APIs
+- **Databases**: MongoDB, PostgreSQL, MySQL, Redis, Prisma
+- **DevOps**: Docker, GitHub Actions, Nginx, Postman, AWS, Azure
+- **Game Dev**: Unity, Blender
 
 ---
 
-## 🗄️ Projects
+## 🗄️ Featured Projects
 
 ### 🔹 [Project Management Platform](https://github.com/Sparkiee/final-project-se)
-A comprehensive task & team management system developed as a final project — featuring role-based access, project dashboards, file submissions & AI smart judge assignment algorithms using OpenAI embedding and cosine similarity
+**MERN Stack** web application with role based access for Admin, Advisors, Judges & Students.
+- AI assisted judge assignment algorithm (Using Open AI API + Cosine Similarity)
+- **CI/CD pipeline** deployment using **GitHub Actions** with **Docker** & **Nginx**
+- Scalable architecture and role-based access control
+- Live chat using Socket.IO (Similar to WhatsApp)
+- Stress and load tested using K6 Grafana
+
 > Tech: Node.js, Express, MongoDB, React, Passport Authentication, Socket.IO, K6 Grafana, Nginx
 
-### 🔹 [StepCook](https://github.com/Sparkiee/StepCook)
-A **hands-free cooking assistant app** for Android — guiding users through recipes step-by-step using **voice recognition, timers, and smart UX**.  
-> Tech: Java, Android Studio, Foreground Services, Voice APIs
+[Source](https://github.com/Sparkiee/final-project-se)
 
-### 🔹 [Volcani Website](https://www.agri.gov.il/)
-Custom **WordPress ecosystem** for the Volcani Institute — includes **custom post types, ACF integrations, bilingual support (HE/EN)**, and CSV importers.  
-> Tech: PHP, WordPress, ACF, SCSS, AJAX, Polylang
+---
+### 🔹 [Linux Shell](https://github.com/Sparkiee/linux-shell-c)
+A custom Linux shell built from scratch with full command parsing and UNIX-style execution.
+- Supports piping, redirection, background tasks (`&`), and command chaining
+- Dynamic linked-list environment variable manager
+- Robust process handling, signal management, and child process lifecycle control
+- Demonstrates deep understanding of OS internals and C systems programming
 
-In addition to the public site, I also worked on internal research tools used by institute researchers and staff:
-- Built MERN-based dashboards for managing research data, experiments, and documentation
-- Implemented advanced search systems using MongoDB aggregations & custom filtering
-- Created dataset management tools with CSV ingestion and role-based access
-- Added React-based research portals for browsing, editing, and tracking scientific content
-- Integrated Node.js microservices for data processing, validation, and internal APIs
-- Optimized performance with Redis caching and modular API endpoints
- - Designed for internal use: high performance, secure access, and researcher-friendly UX
+> Tech: C, Linux System Calls, Process Management, Signals, Pipes, File Descriptors
 
-### 🔹 [Doughminating Pizza](https://github.com/Sparkiee/Doughminating-Pizza)
-A **3D pizza simulation game** with dynamic customers and animation logic.  
-> Tech: Unity (C#), Blender, Animation Controllers. Object Oriented Design
+[Source](https://github.com/Sparkiee/linux-shell-c)
+
+---
+### 🔹 [File Memory Simulator](https://github.com/Sparkiee/hard-drive-memory-sim)
+A miniature file system simulator modeling real OS storage architecture.
+- Custom inode structure with direct & indirect pointers
+- Bit-vector block allocator for efficient storage management
+- File-descriptor table supporting multi-file access and permissions
+- Focused on OS concepts, data structures, and low-level storage logic
+
+> Tech: C, Data Structures, File Systems, Memory Management Algorithms
+
+[Source](https://github.com/Sparkiee/hard-drive-memory-sim)
 
 ---
 
