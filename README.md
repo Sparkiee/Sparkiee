@@ -29,7 +29,7 @@ I thrive where creativity meets logic: whether it's crafting **backend architect
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,nginx,dotnet)
 
 ### 🗄️ Databases & Caching
-![DB](https://skillicons.dev/icons?i=mysql,postgresql,redis)
+![DB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis)
 
 ### ⚛️ Frontend Frameworks
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs)
@@ -93,7 +93,7 @@ A miniature file system simulator modeling real OS storage architecture.
 ## ⚡ Fun Facts
 - I love building things that combine **tech and creativity**
 - I enjoy **camping** and **late-night debugging with coffee**
-- My favorite anime: **One Piece**, **Attack on Titan**, and **Fullmetal Alchemist**
+- My favorite anime: **One Piece**, **Hunter x Hunter**, and **Fullmetal Alchemist**
 
 ---
 
