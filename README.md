@@ -82,7 +82,9 @@ A miniature file system simulator modeling real OS storage architecture.
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maxim%20Shteingard-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maxim-shteingard/)
+
 [![Email](https://img.shields.io/badge/Email-maxim.shteingard%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:maxim.shteingard@gmail.com)
+
 ![Discord](https://img.shields.io/badge/Discord-Sparkie-7289da?style=for-the-badge&logo=linkedin)
 
 
