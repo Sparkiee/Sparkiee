@@ -19,9 +19,6 @@ I thrive where creativity meets logic: whether it's crafting **backend architect
 
 ## 🧰 Tech Stack
 
-**Languages:**  
-🟦 TypeScript • 🟩 JavaScript • 🧡 Java • 🐍 Python • 🧊 C# • ⚙️ PHP • 🐘 SQL / PostgreSQL / Redis
-
 ### 🧠 Languages
 ![Langs](https://skillicons.dev/icons?i=js,ts,java,python,c,cpp,cs,php)
 
@@ -39,14 +36,6 @@ I thrive where creativity meets logic: whether it's crafting **backend architect
 
 ### 🧰 Tools & DevOps
 ![Tools](https://skillicons.dev/icons?i=docker,linux,git,npm,unity,github,githubactions,postman,aws,azure)
-
-**Frameworks & Tools:**  
-- **Languages**: TS, JS, Java, Python, C#, PHP, C, C++
-- **Frontend**: React, Next.js, SCSS
-- **Backend**: Node.js, Express, .NET, REST APIs
-- **Databases**: MongoDB, PostgreSQL, MySQL, Redis, Prisma
-- **DevOps**: Docker, GitHub Actions, Nginx, Postman, AWS, Azure
-- **Game Dev**: Unity, Blender
 
 ---
 
@@ -106,4 +95,4 @@ A miniature file system simulator modeling real OS storage architecture.
 
 ---
 
-⭐ _“Code it simple. Build it strong. Make it yours.”_
+⭐ _“Code it simple. Build it strong. Make it yours.”_  
