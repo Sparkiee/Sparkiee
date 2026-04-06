@@ -26,7 +26,7 @@ I thrive where creativity meets logic: whether it's crafting **backend architect
 ![Web](https://skillicons.dev/icons?i=html,css,sass)
 
 ### 🖥️ Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express,nginx,dotnet)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nginx)
 
 ### 🗄️ Databases & Caching
 ![DB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis)
